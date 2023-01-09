@@ -1,0 +1,1 @@
+docker exec -it lucia_copilot_app bash

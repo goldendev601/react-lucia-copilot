@@ -1,0 +1,1 @@
+export {SuppliersDashboard} from 'pages/SuppliersDashboard';

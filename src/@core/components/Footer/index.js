@@ -1,0 +1,1 @@
+export {default as Footer} from '@core/components/Footer/Footer';
